@@ -1,0 +1,22 @@
+{
+  "wheel_id": 885,
+  "structure": "umbrella",
+  "slug": "fencingtoowoomba-159",
+  "project": "fencing-contractors-toowoomba-seasonal-timing-6ece780cad1c5f4ba",
+  "parent_t1_ref": "fencingtoowoomba-015",
+  "node_role": "buffer",
+  "money_target": "fencingtoowoomba.net.au",
+  "primary_kw": "fencing contractors toowoomba seasonal timing",
+  "intended_url": "https://sitesau.github.io/fencingtoowoomba-159/",
+  "tier": "T2",
+  "writeback_nonce": "8fe61c3cacfa292f",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/fencing-contractors-toowoomba-fencingtoowoomba-015/",
+      "anchor": "Fencing Contractors Toowoomba: A Practical Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
